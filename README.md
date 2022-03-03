@@ -39,7 +39,7 @@
 ### Built With
 
 - HTML5
-- CSS3
+- SASS
 - JS
 - React
 - Sanity.IO
