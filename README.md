@@ -22,7 +22,7 @@
 <div align="center">
 
 <!-- Video Demo -->
-[JMCroft.com](jmcroft.com)
+[JMCroft.com](https://www.jmcroft.com)
 
 </div>
 
